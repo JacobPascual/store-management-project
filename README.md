@@ -24,4 +24,5 @@ Put and image of your UML Diagram here. Upload the image of your UML Diagram to 
 
 ## Description
 
-Write a description of your project here. Include what your store you made, and why you chose this topic. In your description, include as many vocab words from our class to explain how you represented the item/service from your store. If you have user input, explain how the user will interact with your store such as which questions are prompted to the user, what response is your program expecting, and how that is use to output information for your store in the console.
+
+My store is a resemblance of Jollibee. I chose this topic because of my fondness towards the franchise and my love for Filipino food. My store made two products, ChickenJoy and Spaghetti. These both acted as subclasses to their superclass, Food. The Food superclass contained the name, price, whether it was takeout or not, and if the order had fries as instance variables. The subclasses contain specific instance variables along with the instance variables from the superclass using the super(); command. My code uses user input through the scanner object. The user chooses between options using number keys like 1, 2, or 3, to select parts and aspects to customize their order. The program expexts inputs varied from 1 to 4.
